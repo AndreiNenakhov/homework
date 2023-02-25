@@ -1,0 +1,15 @@
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\bin\Debug\net6.0\Задача 27.exe
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\bin\Debug\net6.0\Задача 27.deps.json
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\bin\Debug\net6.0\Задача 27.runtimeconfig.json
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\bin\Debug\net6.0\Задача 27.dll
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\bin\Debug\net6.0\Задача 27.pdb
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\obj\Debug\net6.0\Задача 27.csproj.AssemblyReference.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\obj\Debug\net6.0\Задача 27.GeneratedMSBuildEditorConfig.editorconfig
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\obj\Debug\net6.0\Задача 27.AssemblyInfoInputs.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\obj\Debug\net6.0\Задача 27.AssemblyInfo.cs
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\obj\Debug\net6.0\Задача 27.csproj.CoreCompileInputs.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\obj\Debug\net6.0\Задача 27.dll
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\obj\Debug\net6.0\refint\Задача 27.dll
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\obj\Debug\net6.0\Задача 27.pdb
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\obj\Debug\net6.0\Задача 27.genruntimeconfig.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 27\obj\Debug\net6.0\ref\Задача 27.dll
