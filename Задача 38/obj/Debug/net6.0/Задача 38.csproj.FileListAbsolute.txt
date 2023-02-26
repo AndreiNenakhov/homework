@@ -1,0 +1,15 @@
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\obj\Debug\net6.0\Задача 38.csproj.AssemblyReference.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\obj\Debug\net6.0\Задача 38.GeneratedMSBuildEditorConfig.editorconfig
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\obj\Debug\net6.0\Задача 38.AssemblyInfoInputs.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\obj\Debug\net6.0\Задача 38.AssemblyInfo.cs
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\obj\Debug\net6.0\Задача 38.csproj.CoreCompileInputs.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\bin\Debug\net6.0\Задача 38.exe
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\bin\Debug\net6.0\Задача 38.deps.json
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\bin\Debug\net6.0\Задача 38.runtimeconfig.json
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\bin\Debug\net6.0\Задача 38.dll
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\bin\Debug\net6.0\Задача 38.pdb
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\obj\Debug\net6.0\Задача 38.dll
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\obj\Debug\net6.0\refint\Задача 38.dll
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\obj\Debug\net6.0\Задача 38.pdb
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\obj\Debug\net6.0\Задача 38.genruntimeconfig.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 38\obj\Debug\net6.0\ref\Задача 38.dll
