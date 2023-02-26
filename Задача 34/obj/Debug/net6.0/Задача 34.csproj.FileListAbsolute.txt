@@ -1,0 +1,15 @@
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\obj\Debug\net6.0\Задача 34.csproj.AssemblyReference.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\obj\Debug\net6.0\Задача 34.GeneratedMSBuildEditorConfig.editorconfig
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\obj\Debug\net6.0\Задача 34.AssemblyInfoInputs.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\obj\Debug\net6.0\Задача 34.AssemblyInfo.cs
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\obj\Debug\net6.0\Задача 34.csproj.CoreCompileInputs.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\bin\Debug\net6.0\Задача 34.exe
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\bin\Debug\net6.0\Задача 34.deps.json
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\bin\Debug\net6.0\Задача 34.runtimeconfig.json
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\bin\Debug\net6.0\Задача 34.dll
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\bin\Debug\net6.0\Задача 34.pdb
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\obj\Debug\net6.0\Задача 34.dll
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\obj\Debug\net6.0\refint\Задача 34.dll
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\obj\Debug\net6.0\Задача 34.pdb
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\obj\Debug\net6.0\Задача 34.genruntimeconfig.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 34\obj\Debug\net6.0\ref\Задача 34.dll
