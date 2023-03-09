@@ -1,0 +1,15 @@
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\bin\Debug\net6.0\Задача 41.exe
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\bin\Debug\net6.0\Задача 41.deps.json
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\bin\Debug\net6.0\Задача 41.runtimeconfig.json
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\bin\Debug\net6.0\Задача 41.dll
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\bin\Debug\net6.0\Задача 41.pdb
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\obj\Debug\net6.0\Задача 41.csproj.AssemblyReference.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\obj\Debug\net6.0\Задача 41.GeneratedMSBuildEditorConfig.editorconfig
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\obj\Debug\net6.0\Задача 41.AssemblyInfoInputs.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\obj\Debug\net6.0\Задача 41.AssemblyInfo.cs
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\obj\Debug\net6.0\Задача 41.csproj.CoreCompileInputs.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\obj\Debug\net6.0\Задача 41.dll
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\obj\Debug\net6.0\refint\Задача 41.dll
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\obj\Debug\net6.0\Задача 41.pdb
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\obj\Debug\net6.0\Задача 41.genruntimeconfig.cache
+F:\Знакомство с языками программирования\ДЗ\homework\Задача 41\obj\Debug\net6.0\ref\Задача 41.dll
