@@ -9,7 +9,7 @@
 // 9 5 3 2
 // 8 4 4 2
 
-init [,] table = new init[3, 4];
+int[,] table = new int[3, 4];
 FillArrayRandom(table);
 PrintArray(table);
 SortTolower(table);
@@ -17,25 +17,25 @@ Console.WriteLine();
 PrintArray(table);
 void FillArrayRandom(init[,] array)
 {
-    for (init i = 0; i < array.GetLength(0); i++)
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (init j = 0; j < array.GetLength(1); j++)
+        for (int j = 0; j < array.GetLength(1); j++)
         {
             array[i, j] = new Random().Next(1, 10);
         }
     }
 }
-void SortTolower(init[,] array)
+void SortTolower(int[,] array)
 {
-    for (init i = 0; i < array.GetLength(0); i++)
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (init k = 0; k < array.GetLength(1) - 1; k++)
+        for (int k = 0; k < array.GetLength(1) - 1; k++)
         {
-            for (init j = 0; j < array.GetLength(1); j++)
+            for (int j = 0; j < array.GetLength(1); j++)
             {
                 if (array[i, k] < array[i, k + 1])
                 {
-                    init temp = array[i, k + 1];
+                    int temp = array[i, k + 1];
                     array[i, k + 1] = array[i, k];
                     array[i, k] = temp;
                 }
@@ -43,15 +43,15 @@ void SortTolower(init[,] array)
         }
     }
 }
-void PrintArray(init[,] array)
+void PrintArray(int[,] array)
 {
-    for (init i = 0; i < array.GetLength(0); i++)
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (init j = 0; j < array.GetLength(1); j++)
+        for (int j = 0; j < array.GetLength(1); j++)
         {
             Console.Write($"{array[i, j]} ");
         }
-        Console.WriteLine();
+        Console.WriteLing();
     }
 }
 
