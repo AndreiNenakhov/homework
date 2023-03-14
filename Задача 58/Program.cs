@@ -9,7 +9,7 @@
 
 int [,] GetArray = new int (int rows, int columns)
 {
-    int[,] array = new int [rows, int columns];
+    int [,] array = new int [rows, int columns];
     for (int i = 0; i < rows; i++)
     {
         for (j = 0; j < columns; j++)
@@ -32,3 +32,27 @@ void PrintArray(int[,] array)
     }
     Console.WriteLine();
 }
+
+int[,] MatrixMult(int[,] matrixA,int[,] matrixB)
+{
+    int rowsA = matrixA.GetLength(0);
+    int columnsB = matrixB.GetLength(1);
+    int[,] result = new int[rowsA, columnsB];
+    if (matrixA.GetLength(1) == matrixB.GetLength(0))
+    {
+        for (int i = 0; i < rowsA; i++)
+        {
+            for (int j = 0; j < columnsB; j++)
+            {
+                for (int n = 0; n < matrixA.GetLength(1); n++)
+                {
+                    result[i, j] += matrixA[i, n] * matrixB[n,  i];
+                }
+            }
+        }
+    }
+    return result;
+}
+int[,] matrixA = GetArray (2,2);
+Console.WriteLine ($"Первая матрица: ");
+PrintArray(matrixA);
