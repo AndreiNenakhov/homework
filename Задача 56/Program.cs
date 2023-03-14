@@ -14,7 +14,7 @@ Console.Write (" Введите количество строк в массив�
 int rows = int.Parse (Console.ReadLine());
 Console.Write (" Введите количество столбцов в массиве ");
 int colums = int.Parse (Console.ReadLine ());
-int [,] array = GetArray(rows, colums, 0, 10);
+int [,] array = GetArray(rows, colums, 1, 9);
 PrintArray(array);
 
 Console.WriteLine ($"Строка с наименьшей суммой - {GetRowNumbers (array)}");
