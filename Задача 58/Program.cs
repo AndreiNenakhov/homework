@@ -13,7 +13,7 @@ int[,] secondArray = new int[rows, columns];
 int[,] resultArray = new int[rows, columns];
 
 FillArrayRandom(array);
-PrintArray(array);
+PrintArray2D(array);
 Console.WriteLine();
 
 FillArrayRandom(secondArray);
