@@ -9,7 +9,7 @@
 
 int [,] GetArray = new int (int rows, int columns)
 {
-    int [,] array = new int [rows, int columns];
+    int[,] array = new int[rows, columns];
     for (int i = 0; i < rows; i++)
     {
         for (j = 0; j < columns; j++)
@@ -56,3 +56,6 @@ int[,] MatrixMult(int[,] matrixA,int[,] matrixB)
 int[,] matrixA = GetArray (2,2);
 Console.WriteLine ($"Первая матрица: ");
 PrintArray(matrixA);
+int[,] matrixB = GetArray (2,3);
+Console.WriteLine ($"Вторая матрица: ");
+PrintArray(matrixB);
