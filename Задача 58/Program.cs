@@ -6,62 +6,29 @@
 //  18 20
 //  15 18
 
-int rows = ReadInt("Введите количество строк: ");
-int columns = ReadInt("Введите количество столбцов: ");
-int[,] array = new int[rows, columns];
-int[,] secondArray = new int[rows, columns];
-int[,] resultArray = new int[rows, columns];
 
-FillArrayRandom(array);
-PrintArray2D(array);
-
-void PrintArray2D(int[,] array)
+int [,] GetArray = new int (int rows, int columns)
 {
-    throw new NotImplementedException();
-}
-
-Console.WriteLine();
-
-FillArrayRandom(secondArray);
-PrintArray2D(secondArray);
-
-Console.WriteLine();
-
-if (array.GetLength(0) != secondArray.GetLength(1))
-{
-    Console.WriteLine(" Нельзя перемножить ");
-    return;
-}
-for (int i = 0; i < array.GetLength(0); i++)
-{
-    for (int j = 0; j < secondArray.GetLength(1); j++)
+    int[,] array = new int [rows, int columns];
+    for (int i = 0; i < rows; i++)
     {
-        resultArray[i, j] = 0;
-        for (int k = 0; k < array.GetLength(1); k++)
+        for (j = 0; j < columns; j++)
         {
-            resultArray[i, j] += array[i, k] * secondArray[k, j];
+            array [i, j] = new Random().Next(1, 10);
         }
     }
+    return array; 
 }
 
-PrintArray2D(resultArray);
-
-
-
-int ReadInt(string message)
+void PrintArray(int[,] array)
 {
-    Console.Write(message);
-    return Convert.ToInt32(Console.ReadLine());
-}
-
-void FillArrayRandom(int[,] array)
-{
-    for (int i = 0; i < array.GetLength(0); i++)
+    for (int i = 0; i < array.GetLength(0); ++i)
     {
-        for (int j = 0; j < array.GetLength(1); j++)
+        for  (int j = 0; j < array.GetLength(1); ++j)
         {
-            array[i, j] = new Random().Next(1, 10);
+            Console.Write(array[i, j] + " " );
         }
+        Console.WriteLine();
     }
+    Console.WriteLine();
 }
-
