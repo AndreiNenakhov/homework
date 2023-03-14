@@ -53,7 +53,7 @@ int[,] MatrixMult(int[,] matrixA,int[,] matrixB)
     }
     return result;
 }
-int[,] matrixA = GetArray (2,2);
+int[,] matrixA = GetArray(2,2);
 Console.WriteLine ($"Первая матрица: ");
 PrintArray(matrixA);
 int[,] matrixB = GetArray (2,3);
