@@ -3,3 +3,13 @@ F:\С#\homework\Задача 68\obj\Debug\net6.0\Задача 68.GeneratedMSBuil
 F:\С#\homework\Задача 68\obj\Debug\net6.0\Задача 68.AssemblyInfoInputs.cache
 F:\С#\homework\Задача 68\obj\Debug\net6.0\Задача 68.AssemblyInfo.cs
 F:\С#\homework\Задача 68\obj\Debug\net6.0\Задача 68.csproj.CoreCompileInputs.cache
+F:\С#\homework\Задача 68\bin\Debug\net6.0\Задача 68.exe
+F:\С#\homework\Задача 68\bin\Debug\net6.0\Задача 68.deps.json
+F:\С#\homework\Задача 68\bin\Debug\net6.0\Задача 68.runtimeconfig.json
+F:\С#\homework\Задача 68\bin\Debug\net6.0\Задача 68.dll
+F:\С#\homework\Задача 68\bin\Debug\net6.0\Задача 68.pdb
+F:\С#\homework\Задача 68\obj\Debug\net6.0\Задача 68.dll
+F:\С#\homework\Задача 68\obj\Debug\net6.0\refint\Задача 68.dll
+F:\С#\homework\Задача 68\obj\Debug\net6.0\Задача 68.pdb
+F:\С#\homework\Задача 68\obj\Debug\net6.0\Задача 68.genruntimeconfig.cache
+F:\С#\homework\Задача 68\obj\Debug\net6.0\ref\Задача 68.dll
