@@ -3,3 +3,13 @@ F:\С#\homework\Задача 66\obj\Debug\net6.0\Задача 66.GeneratedMSBuil
 F:\С#\homework\Задача 66\obj\Debug\net6.0\Задача 66.AssemblyInfoInputs.cache
 F:\С#\homework\Задача 66\obj\Debug\net6.0\Задача 66.AssemblyInfo.cs
 F:\С#\homework\Задача 66\obj\Debug\net6.0\Задача 66.csproj.CoreCompileInputs.cache
+F:\С#\homework\Задача 66\bin\Debug\net6.0\Задача 66.exe
+F:\С#\homework\Задача 66\bin\Debug\net6.0\Задача 66.deps.json
+F:\С#\homework\Задача 66\bin\Debug\net6.0\Задача 66.runtimeconfig.json
+F:\С#\homework\Задача 66\bin\Debug\net6.0\Задача 66.dll
+F:\С#\homework\Задача 66\bin\Debug\net6.0\Задача 66.pdb
+F:\С#\homework\Задача 66\obj\Debug\net6.0\Задача 66.dll
+F:\С#\homework\Задача 66\obj\Debug\net6.0\refint\Задача 66.dll
+F:\С#\homework\Задача 66\obj\Debug\net6.0\Задача 66.pdb
+F:\С#\homework\Задача 66\obj\Debug\net6.0\Задача 66.genruntimeconfig.cache
+F:\С#\homework\Задача 66\obj\Debug\net6.0\ref\Задача 66.dll
